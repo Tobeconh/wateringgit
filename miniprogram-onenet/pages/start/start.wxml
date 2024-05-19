@@ -1,0 +1,4 @@
+<!--start.wxml-->
+
+
+<button class="btn1" bindtap="navigate">查看浇水情况</button>

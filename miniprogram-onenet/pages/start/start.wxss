@@ -1,0 +1,7 @@
+/* start.wxss */
+
+
+
+.btn1{
+  width: 60%;
+}
